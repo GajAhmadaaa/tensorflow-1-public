@@ -1,14 +1,26 @@
-**Specialization Name**: DeepLearning.AI TensorFlow Developer
+# DeepLearning.AI TensorFlow Developer
+
+Welcome to the public repo for this course.
 
 Below is the list of assignments and ungraded labs course-wise.
 
-# C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+
+### Want to contribute?
+
+At the time we are not accepting Pull Requests but if you have any suggestion or spot any typo please raise an issue. 
+
+If you find a bug that is blocking in any way consider joining our [community](https://community.deeplearning.ai/) where our mentors and team will help you. You can also find more information on our community in this Reading Item within
+[Coursera](https://www.coursera.org/learn/introduction-tensorflow/ungradedLti/3L0GK/important-have-questions-issues-or-ideas-join-our-community).
+
+-----
+
+## C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
 ## Week 1
 
 ### Assignment
 
-- Housing Prices _(C1_W1_Assignment.ipynb)_
+- Housing Prices _(C1W1_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -18,7 +30,7 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ### Assignment
 
-- Handwriting Recognition _(C1_W2_Assignment.ipynb)_
+- Handwriting Recognition _(C1W2_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -29,7 +41,7 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ### Assignment
 
-- Improve MNIST with Convolutions _(C1_W3_Assignment.ipynb)_
+- Improve MNIST with Convolutions _(C1W3_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -40,7 +52,7 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ### Assignment
 
-- Handling Complex Images _(C1_W4_Assignment.ipynb)_
+- Handling Complex Images _(C1W4_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -48,13 +60,13 @@ Below is the list of assignments and ungraded labs course-wise.
 2. Image Generator with Validation _(C1_W4_Lab_2_image_generator_with_validation.ipynb)_
 3. Compacted Images _(C1_W4_Lab_3_compacted_images.ipynb)_
 
-# C2 - Convolutional Neural Networks in TensorFlow
+## C2 - Convolutional Neural Networks in TensorFlow
 
 ## Week 1
 
 ### Assignment
 
-- Cats vs. Dogs _(C2_W1_Assignment.ipynb)_
+- Cats vs. Dogs _(C2W1_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -64,7 +76,7 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ### Assignment
 
-- Cats vs. Dogs using Augmentation _(C2_W2_Assignment.ipynb)_
+- Cats vs. Dogs using Augmentation _(C2W2_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -75,7 +87,7 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ### Assignment
 
-- Horses vs. Humans using Transfer Learning _(C2_W3_Assignment.ipynb)_
+- Horses vs. Humans using Transfer Learning _(C2W3_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -85,19 +97,19 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ### Assignment
 
-- Multi-class Classifier _(C2_W4_Assignment.ipynb)_
+- Multi-class Classifier _(C2W4_Assignment.ipynb)_
 
 ### Ungraded Labs
 
 1. Classifying Rock, Paper, and Scissors _(C2_W4_Lab_1_multi_class_classifier.ipynb)_
 
-# C3 - Natural Language Processing in TensorFlow
+## C3 - Natural Language Processing in TensorFlow
 
 ## Week 1
 
-### Assignment (Optional)
+### Assignment 
 
-- Explore the BBC News Archive _(C3_W1_Assignment.ipynb)_
+- Explore the BBC News Archive _(C3W1_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -107,9 +119,9 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ## Week 2
 
-### Assignment (Optional)
+### Assignment 
 
-- Categorizing the BBC News Archive _(C3_W2_Assignment.ipynb)_
+- Categorizing the BBC News Archive _(C3W2_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -119,9 +131,9 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ## Week 3
 
-### Assignment (Optional)
+### Assignment 
 
-- Exploring Overfitting in NLP _(C3_W3_Assignment.ipynb)_
+- Exploring Overfitting in NLP _(C3W3_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -134,22 +146,22 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ## Week 4
 
-### Assignment (Optional)
+### Assignment
 
-- Writing Shakespeare with LSTMs _(C3_W4_Assignment.ipynb)_
+- Writing Shakespeare with LSTMs _(C3W4_Assignment.ipynb)_
 
 ### Ungraded Labs
 
 1. NLP with Irish Music _(C3_W4_Lab_1.ipynb)_
 2. Generating Poetry from Irish Lyrics _(C3_W4_Lab_2_irish_lyrics.ipynb)_
 
-# C4 - Sequences, Time Series and Prediction
+## C4 - Sequences, Time Series and Prediction
 
 ## Week 1
 
-### Assignment (Optional)
+### Assignment
 
-- Create and Predict Synthetic Data _(C4_W1_Assignment.ipynb)_
+- Create and Predict Synthetic Data _(C4W1_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -158,9 +170,9 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ## Week 2
 
-### Assignment (Optional) 
+### Assignment  
 
-- Predict with a DNN _(C4_W2_Assignment.ipynb)_
+- Predict with a DNN _(C4W2_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -170,9 +182,9 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ## Week 3
 
-### Assignment (Optional)
+### Assignment
 
-- Mean Absolute Error _(C4_W3_Assignment.ipynb)_
+- Using RNN's and LSTM's for time series _(C4W3_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -181,9 +193,9 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ## Week 4
 
-### Assignment (Optional)
+### Assignment
 
-- Sunspots _(C4_W4_Assignment.ipynb)_
+- Daily Minimum Temperatures in Melbourne - Real Life Data _(C4W4_Assignment.ipynb)_
 
 ### Ungraded Labs
 
